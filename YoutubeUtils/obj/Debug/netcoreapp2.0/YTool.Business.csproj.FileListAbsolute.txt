@@ -1,0 +1,64 @@
+C:/Users/sarah/source/repos/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Business.deps.json
+C:/Users/sarah/source/repos/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Business.dll
+C:/Users/sarah/source/repos/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Business.pdb
+C:/Users/sarah/source/repos/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Bases.dll
+C:/Users/sarah/source/repos/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Business.ViewModels.dll
+C:/Users/sarah/source/repos/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Utilities.Helper.dll
+C:/Users/sarah/source/repos/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Bases.pdb
+C:/Users/sarah/source/repos/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Business.ViewModels.pdb
+C:/Users/sarah/source/repos/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Utilities.Helper.pdb
+C:/Users/sarah/source/repos/YTools/YTool.Business/obj/Debug/netcoreapp2.0/YTool.Business.csprojAssemblyReference.cache
+C:/Users/sarah/source/repos/YTools/YTool.Business/obj/Debug/netcoreapp2.0/YTool.Business.csproj.CoreCompileInputs.cache
+C:/Users/sarah/source/repos/YTools/YTool.Business/obj/Debug/netcoreapp2.0/YTool.Business.AssemblyInfoInputs.cache
+C:/Users/sarah/source/repos/YTools/YTool.Business/obj/Debug/netcoreapp2.0/YTool.Business.AssemblyInfo.cs
+C:/Users/sarah/source/repos/YTools/YTool.Business/obj/Debug/netcoreapp2.0/YTool.Business.csproj.CopyComplete
+C:/Users/sarah/source/repos/YTools/YTool.Business/obj/Debug/netcoreapp2.0/YTool.Business.dll
+C:/Users/sarah/source/repos/YTools/YTool.Business/obj/Debug/netcoreapp2.0/YTool.Business.pdb
+/home/amr/Documents/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Business.deps.json
+/home/amr/Documents/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Business.dll
+/home/amr/Documents/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Business.pdb
+/home/amr/Documents/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Bases.dll
+/home/amr/Documents/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Business.ViewModels.dll
+/home/amr/Documents/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Utilities.Helper.dll
+/home/amr/Documents/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Bases.pdb
+/home/amr/Documents/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Business.ViewModels.pdb
+/home/amr/Documents/YTools/YTool.Business/bin/Debug/netcoreapp2.0/YTool.Utilities.Helper.pdb
+/home/amr/Documents/YTools/YTool.Business/obj/Debug/netcoreapp2.0/YTool.Business.csprojAssemblyReference.cache
+/home/amr/Documents/YTools/YTool.Business/obj/Debug/netcoreapp2.0/YTool.Business.csproj.CoreCompileInputs.cache
+/home/amr/Documents/YTools/YTool.Business/obj/Debug/netcoreapp2.0/YTool.Business.AssemblyInfoInputs.cache
+/home/amr/Documents/YTools/YTool.Business/obj/Debug/netcoreapp2.0/YTool.Business.AssemblyInfo.cs
+/home/amr/Documents/YTools/YTool.Business/obj/Debug/netcoreapp2.0/YTool.Business.csproj.CopyComplete
+/home/amr/Documents/YTools/YTool.Business/obj/Debug/netcoreapp2.0/YTool.Business.dll
+/home/amr/Documents/YTools/YTool.Business/obj/Debug/netcoreapp2.0/YTool.Business.pdb
+D:\RecuitmentTests\Earthlink\youtube-recognizer-asp-core\YTool.Business\bin\Debug\netcoreapp2.0\YTool.Business.deps.json
+D:\RecuitmentTests\Earthlink\youtube-recognizer-asp-core\YTool.Business\bin\Debug\netcoreapp2.0\YTool.Business.dll
+D:\RecuitmentTests\Earthlink\youtube-recognizer-asp-core\YTool.Business\bin\Debug\netcoreapp2.0\YTool.Business.pdb
+D:\RecuitmentTests\Earthlink\youtube-recognizer-asp-core\YTool.Business\bin\Debug\netcoreapp2.0\YTool.Bases.dll
+D:\RecuitmentTests\Earthlink\youtube-recognizer-asp-core\YTool.Business\bin\Debug\netcoreapp2.0\YTool.Business.ViewModels.dll
+D:\RecuitmentTests\Earthlink\youtube-recognizer-asp-core\YTool.Business\bin\Debug\netcoreapp2.0\YTool.Utilities.Helper.dll
+D:\RecuitmentTests\Earthlink\youtube-recognizer-asp-core\YTool.Business\bin\Debug\netcoreapp2.0\YTool.Bases.pdb
+D:\RecuitmentTests\Earthlink\youtube-recognizer-asp-core\YTool.Business\bin\Debug\netcoreapp2.0\YTool.Business.ViewModels.pdb
+D:\RecuitmentTests\Earthlink\youtube-recognizer-asp-core\YTool.Business\bin\Debug\netcoreapp2.0\YTool.Utilities.Helper.pdb
+D:\RecuitmentTests\Earthlink\youtube-recognizer-asp-core\YTool.Business\obj\Debug\netcoreapp2.0\YTool.Business.csprojAssemblyReference.cache
+D:\RecuitmentTests\Earthlink\youtube-recognizer-asp-core\YTool.Business\obj\Debug\netcoreapp2.0\YTool.Business.csproj.CoreCompileInputs.cache
+D:\RecuitmentTests\Earthlink\youtube-recognizer-asp-core\YTool.Business\obj\Debug\netcoreapp2.0\YTool.Business.AssemblyInfoInputs.cache
+D:\RecuitmentTests\Earthlink\youtube-recognizer-asp-core\YTool.Business\obj\Debug\netcoreapp2.0\YTool.Business.AssemblyInfo.cs
+D:\RecuitmentTests\Earthlink\youtube-recognizer-asp-core\YTool.Business\obj\Debug\netcoreapp2.0\YTool.Business.csproj.CopyComplete
+D:\RecuitmentTests\Earthlink\youtube-recognizer-asp-core\YTool.Business\obj\Debug\netcoreapp2.0\YTool.Business.dll
+D:\RecuitmentTests\Earthlink\youtube-recognizer-asp-core\YTool.Business\obj\Debug\netcoreapp2.0\YTool.Business.pdb
+D:\My Github Repositries\youtube-recognizer-app\YTool.Business\bin\Debug\netcoreapp2.0\YTool.Business.deps.json
+D:\My Github Repositries\youtube-recognizer-app\YTool.Business\bin\Debug\netcoreapp2.0\YTool.Business.dll
+D:\My Github Repositries\youtube-recognizer-app\YTool.Business\bin\Debug\netcoreapp2.0\YTool.Business.pdb
+D:\My Github Repositries\youtube-recognizer-app\YTool.Business\bin\Debug\netcoreapp2.0\Shared.dll
+D:\My Github Repositries\youtube-recognizer-app\YTool.Business\bin\Debug\netcoreapp2.0\YTool.Utilities.Helper.dll
+D:\My Github Repositries\youtube-recognizer-app\YTool.Business\bin\Debug\netcoreapp2.0\Shared.pdb
+D:\My Github Repositries\youtube-recognizer-app\YTool.Business\bin\Debug\netcoreapp2.0\YTool.Utilities.Helper.pdb
+D:\My Github Repositries\youtube-recognizer-app\YTool.Business\obj\Debug\netcoreapp2.0\YTool.Business.csprojAssemblyReference.cache
+D:\My Github Repositries\youtube-recognizer-app\YTool.Business\obj\Debug\netcoreapp2.0\YTool.Business.csproj.CoreCompileInputs.cache
+D:\My Github Repositries\youtube-recognizer-app\YTool.Business\obj\Debug\netcoreapp2.0\YTool.Business.AssemblyInfoInputs.cache
+D:\My Github Repositries\youtube-recognizer-app\YTool.Business\obj\Debug\netcoreapp2.0\YTool.Business.AssemblyInfo.cs
+D:\My Github Repositries\youtube-recognizer-app\YTool.Business\obj\Debug\netcoreapp2.0\YTool.Business.csproj.CopyComplete
+D:\My Github Repositries\youtube-recognizer-app\YTool.Business\obj\Debug\netcoreapp2.0\YTool.Business.dll
+D:\My Github Repositries\youtube-recognizer-app\YTool.Business\obj\Debug\netcoreapp2.0\YTool.Business.pdb
+D:\My Github Repositries\youtube-recognizer-app\YTool.Business\bin\Debug\netcoreapp2.0\Models.dll
+D:\My Github Repositries\youtube-recognizer-app\YTool.Business\bin\Debug\netcoreapp2.0\Models.pdb
