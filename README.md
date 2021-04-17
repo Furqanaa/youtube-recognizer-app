@@ -1,5 +1,5 @@
 # youtube-recognizer-app
-Asp.net application to recognize the name of the song provided into the url, 
+Asp.net application to recognize the name of the song provided into the url.
 
 Demo: 
 ![Screenshot](screenshot.png)
